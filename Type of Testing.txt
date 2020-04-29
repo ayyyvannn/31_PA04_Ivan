@@ -17,3 +17,26 @@ What is Integration Testing?
 Integration Testing is conducted by the developer
 
 It is a type of Black Box Testing
+
+SYSTEM TESTING
+
+1. What is System Testing?
+The execution of the software in its final configuration, including integration with other software and hardware systems.
+
+2. System Testing is conducted by?
+Programmers
+
+3. It is type of blackbox/whitebox testing
+WhiteBox Testing 
+
+ACCEPTANCE TEST
+
+1. What is acceptance Testing?
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested. 
+
+2. Acceptance Testing is conducted by?
+End-Users
+
+3. It is type of blackbox/whitebox testing
+Blackbox Testing
+
